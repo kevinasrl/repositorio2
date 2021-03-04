@@ -8,7 +8,7 @@
                 <table>
                     <tr>
                         <td>
-                            <label>Ingrese cuantas semanas hay en el numero de dias puesto: </label>  
+                            <label>Ingrese cuantos meses hay en el numero de semanas puesto: </label>  
                         </td>
                         <td>
                             <input type="number" name="meses" required=""/>
