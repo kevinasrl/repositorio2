@@ -3,7 +3,7 @@
     </head>
     <body>
         <h1>*Desarrolle un algoritmo que permita determinar a partir de un número de dias, 
-        ingresado por pantalla, ¿Cuántas semanas constituyen el número de dias?.*</h1>
+        ingresado por pantalla, ¿Cuántas semanas constituyen el número de dias a calcular?.*</h1>
             <form action="dias.php" method="GET">
                 <table>
                     <tr>
